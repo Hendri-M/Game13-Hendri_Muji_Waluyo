@@ -5,10 +5,22 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
-    path: Assets/Scenes/Main.unity
+  - enabled: 0
+    path: Assets/Scenes/2D Scene [Tugas UI]/Main.unity
     guid: 2cda990e2423bbf4892e6590ba056729
-  - enabled: 1
-    path: Assets/Scenes/Settings.unity
+  - enabled: 0
+    path: Assets/Scenes/2D Scene [Tugas UI]/Settings.unity
     guid: 1c2d551d785ec1546ad5c8de93da9170
+  - enabled: 1
+    path: Assets/Scenes/3D Scene [Tugas]/MainMenu.unity
+    guid: ba20ebe8448a9e144a75b590073a1ee9
+  - enabled: 1
+    path: Assets/Scenes/3D Scene [Tugas]/LoadingScreen.unity
+    guid: ced40935851fc63438e1e6a00461a1ae
+  - enabled: 1
+    path: Assets/Scenes/3D Scene [Tugas]/GamePlay.unity
+    guid: bfab742b12fd2ce42bc4d123ba31e5e5
+  - enabled: 1
+    path: Assets/Scenes/3D Scene [Tugas]/Settings.unity
+    guid: b9051cf59d596f647aee36c79639e6b2
   m_configObjects: {}

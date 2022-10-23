@@ -8,6 +8,9 @@ TagManager:
   - FXAA
   - SMAA
   - MSAAx8
+  - Train
+  - BGMSound
+  - SFXSound
   layers:
   - Default
   - TransparentFX
